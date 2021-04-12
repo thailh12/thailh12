@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thailh12&count_private=true&include_all_commits=true&bg_color=30,56CCF2,2F80ED&title_color=fff&text_color=fff" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailh12&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailh12" />
 </a>
 <!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thailh12" />
